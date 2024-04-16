@@ -17,7 +17,6 @@
                 "lib/firebase_options.dart": {
                     "projectId": "jackies-first-test",
                     "configurations": {
-                        "web": "1:502972278830:web:13da82b62720bfdcb2d7bf"
                     }
                 }
             }
